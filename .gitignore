@@ -1,5 +1,5 @@
-# Object file
-*.o
+# Exclude image extension jpg jpeg
+*.jpg
+*.jpeg
 
-# Ada Library Information
-*.ali
+
